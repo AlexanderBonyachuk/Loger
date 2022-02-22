@@ -1,0 +1,4 @@
+22-02-2022 20:39:46 : Started
+22-02-2022 20:39:46 : java.lang.ArithmeticException: / by zero
+22-02-2022 20:39:53 : Started
+22-02-2022 20:39:53 : java.lang.ArithmeticException: / by zero
